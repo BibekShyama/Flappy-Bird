@@ -5,7 +5,7 @@ let frames = 0;
 
 // loading sprite image
 const sprite = new Image();
-sprite.src = "image/sprite1.png";
+sprite.src = "image/sprite.png";
 
 // game state
 const state = {
